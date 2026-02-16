@@ -345,7 +345,7 @@ footer {
   }
 
 }
-
+/* design for login and sign up page */
 /* Extra links */
 .extra-links{
   margin-bottom:15px; /* space between links and box */
@@ -402,3 +402,4 @@ button {
     width: 90%;
   }
 }
+
